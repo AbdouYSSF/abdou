@@ -1,0 +1,6 @@
+git init 
+git add ( pour ajouter à un dépot gitub)
+git commit -m "first commit" (votre méssage)
+git branch -M main ( si vous voulez creer une autre branche) 
+git remote add origin "http link" (lien de votre depot github)
+git push -u origin main 
